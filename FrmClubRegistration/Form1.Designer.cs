@@ -205,7 +205,7 @@
             // UpdateBtn
             // 
             this.UpdateBtn.Font = new System.Drawing.Font("SimSun-ExtB", 16.2F);
-            this.UpdateBtn.Location = new System.Drawing.Point(907, 134);
+            this.UpdateBtn.Location = new System.Drawing.Point(907, 154);
             this.UpdateBtn.Margin = new System.Windows.Forms.Padding(4);
             this.UpdateBtn.Name = "UpdateBtn";
             this.UpdateBtn.Size = new System.Drawing.Size(127, 52);
@@ -217,7 +217,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("SimSun-ExtB", 16.2F);
-            this.button1.Location = new System.Drawing.Point(907, 229);
+            this.button1.Location = new System.Drawing.Point(907, 247);
             this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(127, 52);
